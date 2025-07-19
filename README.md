@@ -118,9 +118,9 @@ O portfólio é totalmente responsivo e se adapta a:
 ## 📞 Suporte
 
 Para dúvidas ou sugestões:
-- Email: samira@email.com
-- LinkedIn: [Seu LinkedIn]
-- GitHub: [Seu GitHub]
+- Email: samiracosta9951@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samiracostaa
+
 
 ## 📄 Licença
 
