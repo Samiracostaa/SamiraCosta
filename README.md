@@ -1,6 +1,6 @@
-# Portfólio - Samira (Desenvolvedora Fullstack)
+# Portifólio - Samira (Desenvolvedora Fullstack)
 
-Um portfólio profissional moderno e responsivo desenvolvido para destacar habilidades em Java, Node.js e Python.
+Um portifólio profissional moderno e responsivo desenvolvido para destacar habilidades em Java, Node.js e Python.
 
 
 ## 🛠️ Tecnologias Utilizadas
