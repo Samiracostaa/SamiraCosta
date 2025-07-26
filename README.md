@@ -2,21 +2,12 @@
 
 Um portfólio profissional moderno e responsivo desenvolvido para destacar habilidades em Java, Node.js e Python.
 
-## 🚀 Características
-
-- **Design Moderno**: Interface limpa e profissional com gradientes e animações
-- **Totalmente Responsivo**: Funciona perfeitamente em desktop, tablet e mobile
-- **Animações Interativas**: Efeitos de scroll, hover e transições suaves
-- **Navegação Suave**: Scroll automático para seções
-- **Formulário de Contato**: Com validação e notificações
-- **Seções Organizadas**: Apresentação, sobre, habilidades, projetos e contato
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica
 - **CSS3**: Estilos modernos com Flexbox e Grid
 - **JavaScript**: Interatividade e animações
-- **Font Awesome**: Ícones profissionais
 - **Google Fonts**: Tipografia Inter
 
 ## 📁 Estrutura do Projeto
@@ -26,6 +17,7 @@ apre/
 ├── index.html          # Página principal
 ├── styles.css          # Estilos CSS
 ├── script.js           # JavaScript interativo
+
 └── README.md           # Documentação
 ```
 
